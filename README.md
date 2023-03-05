@@ -3,7 +3,7 @@
 Clone the repository:
 ```
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Terre8055/weather-app.git
 ```
 
 Open the `index.html` file in your browser.
